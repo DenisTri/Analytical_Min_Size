@@ -3,7 +3,7 @@ Codes relating the minimum size to the filter and projection parameters of the r
 
 You will find the 2 MATLAB codes related to the article :
 
-"Analytical relationships for imposing minimum length scale inthe robust topology optimization formulation."
+["Analytical relationships for imposing minimum length scale inthe robust topology optimization formulation."](10.1007/s00158-021-02998-w)
 
 Trillet D., Duysinx P., Fernandez E.
 
